@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomBasicAuth.cs](./CS/MyDataService/CustomBasicAuth.cs) (VB: [CustomBasicAuth.vb](./VB/MyDataService/CustomBasicAuth.vb))
+* [MyDataService.svc.cs](./CS/MyDataService/MyDataService.svc.cs) (VB: [MyDataService.svc.vb](./VB/MyDataService/MyDataService.svc.vb))
+<!-- default file list end -->
 # How to process authenticated requests on the OData service
 
 
